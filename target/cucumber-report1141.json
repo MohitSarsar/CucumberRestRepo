@@ -1,0 +1,10 @@
+[
+  {
+    "line": 1,
+    "name": "First GET with Driven Rest Assured test106",
+    "description": "\r\n\r\nScenario : Test my Get Method106\r\nGiven  user start the rest asured test\r\nWhen user hit the get request\r\nThen user validate following in json\r\n| MRData.limit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t|  30\t\t\t            | 50|\r\n| MRData.CircuitTable.Circuits[0].circuitId \t|  albert_park\t      |   |\r\n| MRData.CircuitTable.Circuits[10].circuitId\t|\t red_bull_ring\t\t\t|   |\r\n| MRData.limit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t|  20\t\t\t            |   |",
+    "id": "first-get-with-driven-rest-assured-test106",
+    "keyword": "Feature",
+    "uri": "DataTableGetRequestDataDriven.feature"
+  }
+]
